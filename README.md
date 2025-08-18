@@ -1,9 +1,6 @@
-# Exercise - Front-end Deploy
+# Front-end - Final Project
 
-Exercise #1 from Week #11, named "Bora de Deploy". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
-
-This exercise is focused on the process of deploying the application (Front-end section),
-introducing the concepts of web application environments, sensitive data, environment variables, dotenv library, PM2 library and web hosting services.
+Front-end final project, named "Food Explorer". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
 
 
 ## Tools used in this project
@@ -12,3 +9,4 @@ introducing the concepts of web application environments, sensitive data, enviro
 - CSS
 - JavaScript
 - ReactJS
+- Swiper Slider
