@@ -1,16 +1,18 @@
-# Front-end - Final Project
+# Front-end - Projeto Final | Final Project
 
+Front-end final project, named "Food Explorer". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
+<br>—<br>
 Front-end final project, named "Food Explorer". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
 
 
-## Tools used in this project
+## Ferramentas utilizadas | Tools used in this project
 
 - HTML
 - CSS
 - JavaScript
 - ReactJS
 
-Libraries:
+Bibliotecas | Libraries:
 - Axios
 - React DOM
 - React Router DOM
