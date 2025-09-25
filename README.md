@@ -6,7 +6,7 @@ Front-end final project, named "Food Explorer". Part of the program "Explorer", 
 
 <br>
 <div style="display: flex;">
-  <img width="401" height="230" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/897b9c9b-e88a-4d9d-9ab0-888d93572cd2" />
+  <img width="406" height="235" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/897b9c9b-e88a-4d9d-9ab0-888d93572cd2" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="115" height="235" alt="Mockup - Mobile" src="https://github.com/user-attachments/assets/4875ea5d-c0cf-40fc-b10a-00a63d55e2ff" />
 </div>
