@@ -20,6 +20,6 @@ Bibliotecas | Libraries:
 - Styled Components
 - Swiper Slider
 
-<img width="1339" height="769" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/897b9c9b-e88a-4d9d-9ab0-888d93572cd2" />
-
-<img width="386" height="786" alt="Mockup - Mobile" src="https://github.com/user-attachments/assets/4875ea5d-c0cf-40fc-b10a-00a63d55e2ff" />
+<img width="401" height="230" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/897b9c9b-e88a-4d9d-9ab0-888d93572cd2" />
+<br><br>
+<img width="115" height="235" alt="Mockup - Mobile" src="https://github.com/user-attachments/assets/4875ea5d-c0cf-40fc-b10a-00a63d55e2ff" />
